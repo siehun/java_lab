@@ -10,10 +10,6 @@ import java.util.Scanner;
  * @date 2023/10/11
  */
 public class javaLab {
-    /**
-     *
-     * @author yuehaitao
-     */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
