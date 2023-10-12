@@ -3,6 +3,12 @@ package new05;
 import java.util.LinkedList;
 import java.util.Scanner;
 
+/**
+ * javaLabclass
+ *
+ * @author yuehaitao
+ * @date 2023/10/11
+ */
 public class javaLab {
     /**
      *
